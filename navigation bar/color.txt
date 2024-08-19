@@ -1,0 +1,6 @@
+Navigation Bar color:
+#033747,#012733
+
+
+Hover color:
+#off8c69
